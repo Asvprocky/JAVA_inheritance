@@ -1,0 +1,1 @@
+# JAVA_inheritance
